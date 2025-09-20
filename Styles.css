@@ -1,0 +1,31 @@
+.topnav {
+            background-color: #ffdae1;
+            width: 100vw;
+            overflow: hidden;
+            font-family: "Didot", "Serif", serif;
+        }
+
+        .topnav a {
+            float: left;
+            color: #004f0a;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+            font-family: "Didot", "Serif", serif;
+        }
+
+        .topnav a:hover {
+            background-color: rgb(255, 179, 189);
+            color: 000C87;
+        }
+
+        .topnav a.active {
+            background-color: rgb(255, 179, 189);
+            color: 000C87;
+        }
+        
+        h2, p{
+            font-family: "Didot", "Serif", serif;
+            color:  #004f0a;
+        }
