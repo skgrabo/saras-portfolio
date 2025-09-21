@@ -56,7 +56,7 @@
         }
 
         a:active {
-        color: yellow;
+        color: rgb(15, 162, 42);
         background-color: transparent;
         text-decoration: underline;
         }
