@@ -1,4 +1,4 @@
-.topnav {
+/* .topnav {
     background-color: rgb(255, 218, 225);
     width: 100%;
     overflow: hidden;
@@ -23,20 +23,20 @@
 .topnav a.active {
     background-color: rgb(255, 179, 189);
     color: 000C87;
-}
+} */
 
 h2, p{
     font-family: "Didot", "Serif", serif;
     color:  #004f0a;
 }
 
-footer {
+/* footer {
     position: fixed;
     left: 0;
     bottom: 3px;
     width: 100%;
     /* background-color: red; */
-    color: #004f0a;
+    /* color: #004f0a;
     text-align: center;
     font-family: "Didot", "Serif", serif;
     font-size: 20px;
@@ -59,4 +59,4 @@ a:active {
 color: rgb(15, 162, 42);
 background-color: transparent;
 text-decoration: underline;
-}
+} */
