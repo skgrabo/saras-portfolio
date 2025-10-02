@@ -3,53 +3,28 @@ h2 {
   color:  #004f0a;
 }
 
-/* .topnav {
-    background-color: rgb(255, 218, 225);
-    width: 100%;
-    overflow: hidden;
-    font-family: "Didot", "Serif", serif;
-} */
-
-/* .topnav a {
-    float: left;
-    color: #004f0a;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    font-family: "Didot", "Serif", serif;
-}
-
-.topnav a:hover {
-    background-color: rgb(255, 179, 189);
-    color: 000C87;
-}
-
-.topnav a.active {
-    background-color: rgb(255, 179, 189);
-    color: 000C87;
-} */
-
 .topnav {
   background-color: rgb(255, 218, 225);
   overflow: hidden;
+  font-family: "Didot", "Serif", serif;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #004f0a;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: "Didot", "Serif", serif;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: rgb(255, 179, 189);
+  color: #004f0a;
 }
 
 .topnav a.active {
   background-color: rgb(255, 179, 189);
-  color: #000C87;
+  color: #004f0a;
 }
