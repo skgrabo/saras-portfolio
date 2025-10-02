@@ -34,28 +34,24 @@ footer {
   left: 0;
   bottom: 3px;
   width: 100%;
-  /* background-color: red; */
   color: #004f0a;
   text-align: center;
   font-family: "Didot", "Serif", serif;
   font-size: 20px;
 }
 
-b:link {
+a:link {
     color: #004f0a;
 }
 
-b:visited {
+a:visited {
     color: #004f0a;
 }
 
-b:hover {
+a:hover {
 color: rgb(15, 162, 42);
-text-decoration: underline;
 }
 
-b:active {
+a:active {
 color: rgb(15, 162, 42);
-background-color: transparent;
-text-decoration: underline;
 }
