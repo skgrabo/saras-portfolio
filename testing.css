@@ -28,3 +28,34 @@ h2 {
   background-color: rgb(255, 179, 189);
   color: #004f0a;
 }
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 3px;
+  width: 100%;
+  /* background-color: red; */
+  color: #004f0a;
+  text-align: center;
+  font-family: "Didot", "Serif", serif;
+  font-size: 20px;
+}
+
+a:link {
+    color: #004f0a;
+}
+
+a:visited {
+    color: #004f0a;
+}
+
+a:hover {
+color: rgb(15, 162, 42);
+text-decoration: underline;
+}
+
+a:active {
+color: rgb(15, 162, 42);
+background-color: transparent;
+text-decoration: underline;
+}
