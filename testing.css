@@ -41,20 +41,20 @@ footer {
   font-size: 20px;
 }
 
-a:link {
+b:link {
     color: #004f0a;
 }
 
-a:visited {
+b:visited {
     color: #004f0a;
 }
 
-a:hover {
+b:hover {
 color: rgb(15, 162, 42);
 text-decoration: underline;
 }
 
-a:active {
+b:active {
 color: rgb(15, 162, 42);
 background-color: transparent;
 text-decoration: underline;
