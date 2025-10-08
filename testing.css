@@ -2,11 +2,24 @@ h2 {
   font-family: "Didot", "Serif", serif;
   color:  #004f0a;
 }
-
+h1 {
+  font-size: 36px;
+  font-family: "Didot", "Serif", serif;
+  color:  #004f0a;
+}
 .topnav {
   background-color: rgb(255, 218, 225);
   overflow: hidden;
   font-family: "Didot", "Serif", serif;
+}
+
+p {
+  font-family: "Didot", "Serif", serif;
+  color:  #004f0a;
+  font-size: 20px;
+}
+body {
+  background-color: rgb(255, 249, 240);
 }
 
 .topnav a {
@@ -15,7 +28,7 @@ h2 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   font-family: "Didot", "Serif", serif;
 }
 
@@ -41,17 +54,42 @@ footer {
 }
 
 a:link {
-    color: #004f0a;
+  color: #004f0a;
 }
 
 a:visited {
-    color: #004f0a;
+  color: #004f0a;
 }
 
 a:hover {
-color: rgb(15, 162, 42);
+  color: rgb(15, 162, 42);
 }
 
 a:active {
-color: rgb(15, 162, 42);
+  color: rgb(15, 162, 42);
+}
+
+
+.container {
+        display: flex;
+        padding: 10px;
+        border: #004f0a 2px solid;
+}
+
+.item {
+    flex: 1;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    border: #004f0a 2px solid;
+    /* margin: 10px; */
+    
+}
+
+.item.left {
+    background-color: rgb(255, 179, 189);
+}
+
+.item.right {
+    background-color: rgb(255, 218, 225);
 }
