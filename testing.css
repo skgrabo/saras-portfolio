@@ -93,3 +93,6 @@ a:active {
 .item.right {
     background-color: rgb(255, 218, 225);
 }
+
+.socials a { text-decoration: none; }
+.socials img { border: 0; vertical-align: middle; display: inline-block; }
